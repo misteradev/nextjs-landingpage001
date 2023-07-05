@@ -4,6 +4,5 @@
 
 ### NextJS + React + tailwind
 
-### Live preview link
-
-<h4></h4>
+---
+<h4>Live preview link</h4>
