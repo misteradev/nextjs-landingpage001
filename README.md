@@ -7,6 +7,10 @@
 ```bash 
 npm run dev
 ```
+
+## Netlify live preview link
+[See Now](https://misteradevlandingpage001.netlify.app/)
+
 ## packages:
 + [tailwind css](https://tailwindcss.com/docs/installation)
 + [next js](https://nextjs.org/docs/)
