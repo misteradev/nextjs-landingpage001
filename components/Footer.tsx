@@ -18,7 +18,7 @@ export default function Footer({}: Props) {
                 <div>
                     <div className='md:flex md:gap-2'>
                         <Image className='inline-block' src={footer.piclogo} alt='logo1'/>
-                        <h3 className='font-bold text-2xl'>Nexcent</h3>
+                        <h3 className='font-bold text-2xl'>Misteradev</h3>
                     </div>
                     <div className='py-4 text-sm'>
                         <p>{footer.copylight1}</p>

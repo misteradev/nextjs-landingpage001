@@ -24,8 +24,9 @@ const [open, setOpen] = useState(false);
         sticky ? "bg-white/60  text-gray-900 shadow-sm" : ""
       }`}>
         <div className='container mx-auto flex justify-between items-center'>
-            <div>
+            <div className='flex gap-2 items-center'>
                 <Link href="/"><Image src={navmenu.piclogo}alt='logobrand'/></Link>
+                <h2 className='text-2xl font-bold text-gray-700'>Misteradev</h2>
             </div>
             <div className={` ${sticky ? "lg:bg-white/0 bg-white" : ""} text-gray-900 lg:block hidden px-7 py-2 font-medium  rounded-bl-full`}>
                 <ul className='flex items-center gap-4 py-2'>

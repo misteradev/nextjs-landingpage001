@@ -1,7 +1,7 @@
 import Link from "next/link";
 
 //Images
-import pic001 from '../public/images/Logo.png'
+import pic001 from '../public/images/Logo2.png'
 import pic002 from '../public/images/Hero.png'
 import pic003 from '../public/images/Hero1.png'
 import pic004 from '../public/images/image01.png'
