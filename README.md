@@ -4,5 +4,11 @@
 
 ### NextJS + React + tailwind
 
----
-<h4>Live preview link</h4>
+```bash 
+npm run dev
+```
+## packages:
++ [tailwind css](https://tailwindcss.com/docs/installation)
++ [next js](https://nextjs.org/docs/)
++ [swiper js](https://swiperjs.com/get-started)
++ [react icons](https://react-icons.github.io/react-icons/)
