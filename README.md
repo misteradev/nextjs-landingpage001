@@ -2,7 +2,7 @@
 
 <h1>NextJS Landing Page</h1>
 
-### NextJS + React + tailwind
+### NextJS + React + Tailwind
 
 ```bash 
 npm run dev
